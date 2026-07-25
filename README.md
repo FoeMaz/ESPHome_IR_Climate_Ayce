@@ -18,7 +18,7 @@ I recorded the Pronto Codes using https://github.com/DAB-LABS/HAIR , then conver
 
 ## ✨ Features
 
-- 🌡️ **Temperatursteuerung:** Zieltemperatur präzise über Home Assistant einstellen.
+- 🌡️ **Temperatursteuerung:** Zieltemperatur präzise über Home Assistant einstellen (in Celsius).
 - 🔄 **Betriebsmodi:** Unterstützt Kühlen (*Cool*), Entfeuchten (*Dry*), Nur-Ventilator (*Fan Only*) und Aus (*Off*).
 - 💨 **Lüfterstufen (Fan Speed):** Steuerung der Ventilatorgeschwindigkeit (Low, Medium, High).
 - ↕️ **Lamellen-Steuerung (Swing):** Ein-/Ausschalten der vertikalen Oszillation.
