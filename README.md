@@ -2,6 +2,10 @@
 This is an extension to the ESP Home IR Remote Climate for Ayce (and maybe generic) ACs
 Dieses Repository enthält eine **ESPHome**-Komponente zur Steuerung von **Ayce Klimageräten** (z. B. vertrieben über Jumbo / Coop) über einen Infrarot (IR)-Sender. Damit kannst du deine Ayce-Klimaanlage nahtlos in **Home Assistant** einbinden und automatisieren.
 
+## AI Disclaimer: I used Gemini and Copilot to write the modules.
+
+I recorded the Pronto Codes using https://github.com/DAB-LABS/HAIR , then converted the Pronto Codes to binary and used Excel to find the changing bits and the checksum.
+
 ---
 
 ## 📑 Inhaltsverzeichnis
